@@ -1,7 +1,11 @@
 # SEMESO
 Semeso-Courses
-Ferramentas:
+
+#Ferramentas
 snapLogic
 InformmaticaCloud
 AWS Glue
 IBM DataStage
+
+#Informática Cloud:
+Update constante, interface amigável
